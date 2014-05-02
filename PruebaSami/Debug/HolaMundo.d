@@ -1,1 +1,0 @@
-HolaMundo.d: ../HolaMundo.c
